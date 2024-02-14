@@ -18,7 +18,7 @@ Here is the Ganache Homescreen showing the corresponding amount of eth taken fro
 ![alt text](Code/Ganache.png)
 
 Here is the Ganache transaction history.
-![alt text](Code/Transaction History.png)
+![alt text](Code/Transaction_History.png)
 
 Here are the transaction details.
-![alt text](Code/Transaction Details.png)
+![alt text](Code/Transaction_Details.png)
