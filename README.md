@@ -14,7 +14,7 @@ As instructed here are the screenshots from Streamlit.
 Here is the screenshot from streamlit showing the Candidate selection screen.
 ![alt text](Code/Streamlit.png)
 
-Here is the Ganache Homescreen showing the corresponding amount o f eth taken from my account.
+Here is the Ganache Homescreen showing the corresponding amount of eth taken from my account.
 ![alt text](Code/Ganache.png)
 
 Here is the Ganache transaction history.
